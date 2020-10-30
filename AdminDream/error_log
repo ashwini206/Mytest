@@ -1,0 +1,5 @@
+[20-May-2020 08:45:35 America/Chicago] PHP Fatal error:  Cannot redeclare Test::index() in /home/haris7ya/public_html/realpropertylead.com/myestate/application/controllers/Test.php on line 19
+[04-Jun-2020 12:39:39 UTC] PHP Fatal error:  Cannot redeclare Home::Add_listing() in /home/aqaryonline/public_html/myestate/application/controllers/Home.php on line 41
+[04-Jun-2020 12:39:46 UTC] PHP Fatal error:  Cannot redeclare Home::Add_listing() in /home/aqaryonline/public_html/myestate/application/controllers/Home.php on line 41
+[04-Jun-2020 12:40:00 UTC] PHP Fatal error:  Cannot redeclare Home::Add_listing() in /home/aqaryonline/public_html/myestate/application/controllers/Home.php on line 41
+[29-Jul-2020 09:32:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'application/libraries/stripe-php/init.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/aqaryonline/public_html/myestate/application/controllers/Home.php on line 195
